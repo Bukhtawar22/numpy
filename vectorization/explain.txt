@@ -1,0 +1,19 @@
+ek array hai os har ek element pr operation 
+apply krna hai without using loops 
+is this called vectorizations
+is sy ap jo bhi calculation perform krty ho
+vo 100 guna fastest hoti h
+
+
+-brodcasting smaller array ko expend krdyta hai larger m to match
+faster than loops
+
+-1D or 2D brodcasting 1D array ap k pass hai 
+toh os ko 2D array mein expend krskty hein
+ta ke vo match hojy or humara operations perform hojy
+
+- vectorization entire array pr apply krdyta haijo bhi operations perform krny hoty
+100x faster than loops
+
+-or vectorization ka use hum matrix operations pr
+

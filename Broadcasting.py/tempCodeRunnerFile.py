@@ -1,0 +1,1 @@
+ces - (prices * discount/100

@@ -1,0 +1,2 @@
+np.NaN =Not a Number
+koi data miss hoga
